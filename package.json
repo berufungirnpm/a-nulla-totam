@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@berufungirnpm/a-nulla-totam",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/berufungirnpm/a-nulla-totam.git"
   },
   "dependencies": {
+    "@berufungirnpm/at-voluptate-iste": "^1.0.0",
+    "@rtyughnnpm/molestiae-accusamus-minima-vitae": "^1.0.0"
   }
 }
